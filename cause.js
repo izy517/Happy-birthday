@@ -13,12 +13,12 @@
     { 
         text: "ur the stinkiest babyy and also the prettiest and the cutest ✨ ", 
         emoji: "💕",
-        gif: "gif1.gif"
+        gif: "gif3.gif"
     },
     { 
         text: "u are perfect sayang, and i am glad u are the way u are, i love u 🥳 ", 
         emoji: "🌟",
-        gif: "gif2.gif"
+        gif: "gif4.gif"
     }
 ];
 
